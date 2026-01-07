@@ -1,7 +1,5 @@
 // https://jsonplaceholder.typicode.com/photos
 
-import 'dart:convert';
-
 import 'package:dio/dio.dart';
 import 'package:flutter/material.dart';
 
